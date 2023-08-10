@@ -1,0 +1,12 @@
+.button {
+    background-color:var(--background-color);
+    min-width: 100px;
+    padding: 5px 15px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: var(--text-color);
+}
+.button:hover{
+    text-decoration: underline;
+}
